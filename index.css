@@ -1,0 +1,15 @@
+
+
+.tablehead{
+    background-color: rgb(206, 137, 137);
+    color: white;
+}
+
+td {
+    border: solid 2px blueviolet;
+}
+.table{
+    border-collapse: collapse;
+    background-color: rgb(189, 173, 187);
+   
+}
